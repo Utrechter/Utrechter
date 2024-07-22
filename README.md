@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Utrechter
+- 👀 I’m interested in creative projects, Retro videogames, Arduino, Raspberry Pi
+- 🌱 I’m currently learning Raspberry Pi!
+- 💞️ I’m looking to collaborate on... Well, I don't think you could use my mediocre coding skills.
+- 📫 How to reach me: Shoot me a message!
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: I am super new to Github :-)
