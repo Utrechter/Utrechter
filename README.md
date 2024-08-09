@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Utrechter
-- 👀 I’m interested in creative projects, Retro videogames, Arduino, Raspberry Pi
-- 🌱 I’m currently learning Raspberry Pi!
-- 💞️ I’m looking to collaborate on... Well, I don't think you could use my mediocre coding skills.
+- 👋 Hi, I’m Barry
+- 👀 I’m interested in creative art projects, Retro videogames, Arduino, Raspberry Pi
+- 🌱 I’m currently working on my MQTT controlled framed LED matrix (see www.Ledlijstje.nl/)
 - 📫 How to reach me: Shoot me a message!
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I am super new to Github :-)
+- ⚡ Fun fact: Retro consoles fascinate me
